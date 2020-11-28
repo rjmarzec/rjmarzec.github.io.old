@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="description">
+  <p>You can't be a software developer without some software to show for it.
+    Here you can find some write-ups and reflections on some past projects of
+    mine from a variety of fields.
+    <br><br>Feel free to click on whatever seems interesting, and I hope you enjoy
+    the read.
+  </p>
+</div>
+
+<div class="posts">
+  {% for post in site.categories.projects %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>

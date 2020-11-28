@@ -8,5 +8,4 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
-_Running a Local Version of the Blog.md
-
+_local_test_instructions.md

@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="description">
+  <p>When you've played games for as long as I have, eventually you get to the
+    point of looking at games beyond the surface and start to think about what
+    makes them tick. A lot of those ideas are really interesting and worth
+    sharing, so in posts you can find here I'll ramble on about interesting
+    design choices in games I come across and what makes them special.
+    <br><br>Each post is marked by what games I discuss in it, so maybe poke
+    around until you find something familiar. From there, I hope you can take
+    something interesting away from my rambling thoughts.
+</div>
+
+<div class="posts">
+  {% for post in site.categories.ramblings %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <span>&emsp;&emsp;Games mentioned:
+        {% for tag in post.tags %}
+          {% capture tag_name %}{{ tag }}{% endcapture %}
+          <a>
+            <code class="highligher-rouge">
+              <nobr>{{ tag_name }}</nobr>
+            </code>&nbsp;
+          </a>
+        {% endfor %}
+      </span>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
