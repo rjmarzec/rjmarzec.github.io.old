@@ -2,6 +2,7 @@
 layout: post
 title: Resources in LoL and what they mean
 tags: LoL
+permalink: /game-design-ramblings/resources-in-lol-and-what-they-mean
 ---
 
 Hi there! In this blog post, I'm going to discuss the different resources champions in League of Legends and what those resources mean for their gameplay. It doesn't sound the most exciting on the surface, but bare with me and hopefully I can turn it into something special.

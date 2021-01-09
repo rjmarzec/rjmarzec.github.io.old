@@ -3,6 +3,7 @@ published: true
 layout: post
 title: Creating characters for whales and krill in MMOs
 tags: DFO MapleStory
+permalink: /game-design-ramblings/creating-character-for-whales-and-krill-in-mmos
 ---
 
 Hey there! In this post I'll be writing about some interesting approaches for balancing characters to appeal to whales (high-spending players) and krill (new players) in MMOs that I've picked up on over time. In particular, I'll be looking some examples from some MMOs I hold close to my heart, so keep reading for an interesting discussion.  
