@@ -1,6 +1,7 @@
 ---
 published: false
 layout: post
+comments: true
 title: Template Post
 permalink: /projects/[TITLE]
 ---

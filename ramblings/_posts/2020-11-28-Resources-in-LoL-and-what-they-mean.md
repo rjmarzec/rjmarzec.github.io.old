@@ -1,5 +1,7 @@
 ---
+published: true
 layout: post
+comments: true
 title: Resources in LoL and what they mean
 tags: LoL
 permalink: /game-design-ramblings/resources-in-lol-and-what-they-mean

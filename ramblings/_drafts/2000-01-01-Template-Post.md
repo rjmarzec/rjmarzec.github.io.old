@@ -1,6 +1,7 @@
 ---
 published: false
 layout: post
+comments: true
 title: Template Post
 tags: game1 game2
 permalink: /game-design-ramblings/[TITLE]

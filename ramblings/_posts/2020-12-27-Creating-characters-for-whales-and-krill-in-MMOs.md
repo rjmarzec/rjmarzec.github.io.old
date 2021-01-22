@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+comments: true
 title: Creating characters for whales and krill in MMOs
 tags: DFO MapleStory
 permalink: /game-design-ramblings/creating-character-for-whales-and-krill-in-mmos

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hi there!
+comments: false
 permalink: /
 ---
 
