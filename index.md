@@ -34,8 +34,4 @@ point for my work on this website
 
 ### Contact Me
 
-If you want to contact me for any reason, feel free to reach me at the email
-below. I would be more than happy to talk about anything. Also check me out on
-the platforms linked in the icons at the bottom of this page.
-
-[robertmarzecj@gmail.com](mailto:robertmarzecj@gmail.com)
+If anything looks interesting, let me know! You can reach me [robertmarzecj@gmail.com](mailto:robertmarzecj@gmail.com), the comment sections of most posts, or at the pages in the icons below. I would love to talk about anything. (:

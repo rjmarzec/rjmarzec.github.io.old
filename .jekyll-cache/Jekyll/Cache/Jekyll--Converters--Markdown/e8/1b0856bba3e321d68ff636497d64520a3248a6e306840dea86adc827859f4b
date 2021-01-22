@@ -1,0 +1,33 @@
+I"@<p>I’m Robert Marzec, and this is my website. For now, here you can find a bit
+about me, some write-ups on projects I’ve done, and some of my thoughts on
+game design decisions I find interesting.</p>
+
+<h3 id="about-me">About Me</h3>
+
+<p>I’m a sophomore studying Computer Science at the University of Michigan. I love
+making stuff, and if there is something to make with computers, I’ve probably
+done it: mobile development, game development, hardware with Arduino, and even
+web development with this website. If you’re looking for a fun software
+developer who likes to share their mind from time to time, you’ve come to the
+right person’s website.</p>
+
+<p>And now, a fun picture of me with some wings and a smoothie:</p>
+
+<p><img src="images/misc/about_picture.jpg" alt="Me!" /></p>
+
+<h3 id="credits">Credits</h3>
+
+<p>While this is my website, I’m not the one to thank for it all since I didn’t
+build it all from the ground up. So, I would like to say thanks to:</p>
+<ul>
+  <li><a href="https://pages.github.com/">GitHubs Pages</a>, the website’s host</li>
+  <li><a href="https://jekyllrb.com/">Jekyll</a>, the language used to build the
+website</li>
+  <li><a href="https://github.com/barryclark/jekyll-now">Jekyll Now</a>, which was the starting
+point for my work on this website</li>
+</ul>
+
+<h3 id="contact-me">Contact Me</h3>
+
+<p>If anything looks interesting, let me know! You can reach me <a href="mailto:robertmarzecj@gmail.com">robertmarzecj@gmail.com</a>, the comment sections of most posts, or at the pages in the icons below. I would love to talk about anything. (:</p>
+:ET
