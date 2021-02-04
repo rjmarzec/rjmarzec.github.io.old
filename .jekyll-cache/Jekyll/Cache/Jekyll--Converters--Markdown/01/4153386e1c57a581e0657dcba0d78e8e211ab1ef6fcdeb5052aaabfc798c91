@@ -1,10 +1,10 @@
-I"^/<p>Hi there! Today I’ll be writing about my time putting together Pet Power Down, a computer game designed around answering a complicated question: How do we design games for the visually impaired? Keep reading for a look at what that question meant to my team and what we made along the way.</p>
+I"q/<p>Hi there! Today I’ll be writing about my time putting together Pet Power Down, a computer game designed around answering a complicated question: How do we design games for the visually impaired? Keep reading for a look at what that question meant to my team and what we made along the way.</p>
 
 <h3 id="some-background-and-the-initial-idea">Some background and the initial idea</h3>
 
 <p>Before all the good stuff, let’s talk a bit out why the game came to be. In my first semester of Freshman year at university, I signed up for a class named “Gaming for the Greater Good,” a course where students would get into groups of 4 to put a game together over the semester using GameMaker Studio 2. Each semester, the class would focus on a specific disability to have the games catered towards, and this semester the focus was on visual impairments, or people who have reduced, little, or no ability to see.</p>
 
-<p>From a game design standpoint I found the problem super interesting. It’s hard to think of any game that doesn’t use the screen it displays to transmit it’s vital information, and working around that issue is a fun one. The idea I ended up settling on was abandoning visuals altogether! After all, if you don’t have any visuals you need to look at to play the game, then there shouldn’t be any meaningful difference between playing with and without working vision. It’s the dumb yet genius type of approach.</p>
+<p>From a game design standpoint I found the problem super interesting. It’s hard to think of any game that doesn’t use the screen it displays to transmit it’s vital information, and working around that issue is a fun one. The idea I ended up settling on was abandoning visuals altogether! After all, if you don’t have any visuals you need to look at to play the game, then there shouldn’t be any meaningful difference between playing with and without working vison. It’s the dumb yet genius type of approach.</p>
 
 <p>From there the idea that came to me was having to search out something in the dark that made noise back at you so that you could echolocate them. I had some trouble figuring out what theming would work for that, but eventually I settled on the idea of searching for pets in the dark after a power outage (hence the name Pet Power Down). I figured it worked on multiple fronts: it’s dark because the power is out, you’re searching for pets because you are in your home, and your pets are making sounds because that’s what animals do.</p>
 
@@ -14,7 +14,7 @@
 
 <p>Part of the project proposal phase in the class involved writing up a document including some mock-up sketches of how our games were supposed to work, and I think they fit real nice here to help illustrate what the game is actually like if my previous description didn’t do a great job. Here’s an overview of some of my concept sketches:</p>
 
-<p><img src="/images/projects/Pet_Power_Down/concept_level_start.png" alt="A concept sketch of what a room with perfect vision looks like" /></p>
+<p><img src="http://localhost:4000/images/projects/Pet_Power_Down/concept_level_start.png" alt="A concept sketch of what a room with perfect vision looks like" /></p>
 
 <p>Here’s a look at what the start of a level looks like with perfect vision. You have your player at one side of the room and some sort of pet on the other. The room you’re in can take up forms of all sorts of different twists and turns and it’s split up into a grid.</p>
 
@@ -79,5 +79,5 @@
 <p>Click <a href="https://github.com/rjmarzec/Pet-Power-Down">here</a> for a GitHub repo containing all the project files. Note the low commit count due to being tossed onto the page after the project was completed since we used Google Drive for version control otherwise.</p>
 
 <p>If you’ve gotten this far, thanks for reading through a write-up of Pet Power Down! I hoped you took something out of exploring an interesting idea through my eyes as it got shaped into it, and hopefully you enjoyed a bit of the game if you tried it out as well. This was also my first project blog post on this site, so yay me for that as well, and here’s to many more with hopefully a more defined writing style from here on out. That’s all for now, so thanks again for stopping by.<br />
--Robert!</p>
+-Robert</p>
 :ET
