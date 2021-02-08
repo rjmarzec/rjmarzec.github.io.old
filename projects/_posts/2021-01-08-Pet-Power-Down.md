@@ -21,15 +21,15 @@ Every student in the class had to put a similar pitch together like I did, and m
 
 Part of the project proposal phase in the class involved writing up a document including some mock-up sketches of how our games were supposed to work, and I think they fit real nice here to help illustrate what the game is actually like if my previous description didn't do a great job. Here's an overview of some of my concept sketches:  
 
-![A concept sketch of what a room with perfect vision looks like]({{ site.url }}/images/projects/Pet_Power_Down/concept_level_start.png)  
+![A concept sketch of what a room with perfect vision looks like](/images/projects/Pet_Power_Down/concept_level_start.png)  
 
 Here's a look at what the start of a level looks like with perfect vision. You have your player at one side of the room and some sort of pet on the other. The room you're in can take up forms of all sorts of different twists and turns and it's split up into a grid.
 
-![A concept sketch of the dark room the player sees]({{ site.url }}/images/projects/Pet_Power_Down/concept_level_dark.png)  
+![A concept sketch of the dark room the player sees](/images/projects/Pet_Power_Down/concept_level_dark.png)  
 
 Of course, that last sketch misses the whole point of the game: not needing to see. While under the hood levels would look like the last picture, the players would see some something to the effect of the above. You are able to see your player character, some parts of the room are darkened so you don't see everything (you'll see this later), and the only pointer you have towards the animals you are looking for is the sounds they make that you hear coming from their direction.
 
-![A concept sketch of moving in a row]({{ site.url }}/images/projects/Pet_Power_Down/concept_level_movement.png)  
+![A concept sketch of moving in a row](/images/projects/Pet_Power_Down/concept_level_movement.png)  
 
 And here we have a showcase of what the core gameplay loop looks like. Each "turn" the player is able to make some number of movement in any of 4 directions along the grid of the map. After the player makes their movement, the pet will make their movements following a similar set of rules and unique movement patterns based on the animal. After that, the pet will make a noise back at the player so that they can readjust their strategy and next steps before repeating the process.  
 
@@ -39,31 +39,31 @@ All that together, we have ourselves a game! After a few months of effort betwee
 
 Now for the exciting stuff: screenshots of the finished game! Showing off all 24 levels here would be a lot, so I'll just show the first couple few and then some other interesting ones. Before I get into that, here some clarification on the parts of each level: the girl is the character the person controls, the pet-looking things are the pets that player has to catch, the red squares and furniture are walls the player cannot pass (and that make a bumping sound when you try to walk onto them), the green and blue squares are carpet the player can walk on, and the black parts of the map are... uh... the void? As for how the void fits into a simple game like this, don't ask.  
 
-![Level 3]({{ site.url }}/images/projects/Pet_Power_Down/level_3.png)
-![Level 3, but dark as seen in game]({{ site.url }}/images/projects/Pet_Power_Down/level_3_dark.png)
+![Level 3](/images/projects/Pet_Power_Down/level_3.png)
+![Level 3, but dark as seen in game](/images/projects/Pet_Power_Down/level_3_dark.png)
 
 Let's jump ahead to level 3 first to show off what the darkness in the game looks like. It turns out that the game feels terrible if you can't see *anything*, so the best balance between seeing everything and seeing nothing came out to be the flashlight effect shown above. Having the flashlight means that you don't get frustrated bumping around in the dark while still making navigating require echolocation on the larger scale. The other picture above is the room with the flashlight taken off, just for clarity here and now what it would normally look like.
 
-![Level 1]({{ site.url }}/images/projects/Pet_Power_Down/level_1.png)
-![Level 2]({{ site.url }}/images/projects/Pet_Power_Down/level_2.png)
+![Level 1](/images/projects/Pet_Power_Down/level_1.png)
+![Level 2](/images/projects/Pet_Power_Down/level_2.png)
 
 Here's level 1 and 2. Both are super simple to get players warmed up to the controls and what they are looking at and how to move. One more unique feature of these two level is that they both have the darkness off to begin. It doesn't make sense to throw players into the darkness from the start, so for the first two levels the players get some help there.  
 
-![Level 4]({{ site.url }}/images/projects/Pet_Power_Down/level_4.png)
-![Level 5]({{ site.url }}/images/projects/Pet_Power_Down/level_5.png)
-![Level 6]({{ site.url }}/images/projects/Pet_Power_Down/level_6.png)
+![Level 4](/images/projects/Pet_Power_Down/level_4.png)
+![Level 5](/images/projects/Pet_Power_Down/level_5.png)
+![Level 6](/images/projects/Pet_Power_Down/level_6.png)
 
 Here's levels 4, 5, and 6. They mix things up with more interesting layouts and even multiple pets. Nothing too crazy here, but a start to more varied levels.  
 
-![Level 9]({{ site.url }}/images/projects/Pet_Power_Down/level_9.png)
-![Level 10]({{ site.url }}/images/projects/Pet_Power_Down/level_10.png)
-![Level 21]({{ site.url }}/images/projects/Pet_Power_Down/level_21.png)
+![Level 9](/images/projects/Pet_Power_Down/level_9.png)
+![Level 10](/images/projects/Pet_Power_Down/level_10.png)
+![Level 21](/images/projects/Pet_Power_Down/level_21.png)
 
 Levels 9, 10, and 21. I'm pointing out these levels since I liked they way they lead players: although the rooms were complex and might confuse players if they had to go from start to end in one go, pets were put in specific places to guide players down the right path as they pick up pets along the way.  
 
-![Level 11]({{ site.url }}/images/projects/Pet_Power_Down/level_11.png)
-![Level 16]({{ site.url }}/images/projects/Pet_Power_Down/level_16.png)
-![Level 20]({{ site.url }}/images/projects/Pet_Power_Down/level_20.png)  
+![Level 11](/images/projects/Pet_Power_Down/level_11.png)
+![Level 16](/images/projects/Pet_Power_Down/level_16.png)
+![Level 20](/images/projects/Pet_Power_Down/level_20.png)  
 
 Levels 11, 16, and 20. While the last 3 levels were examples of levels that worked well, I think these ended up being pretty poor. In these the pets are hidden behind walls or obstacles, so when the players walk in their direction, they end up getting stuck without a clear path to progression without some trial and error testing, which is terrible.  
 
@@ -79,9 +79,9 @@ Sure, the game wasn't perfect, but putting something unique together with friend
 
 Naturally, I can't talk this long about a game I've made without having a download link for the game, alongside some other goodies.  
 
-Click [here]({{ site.url }}/downloads/projects/Pet_Power_Down/Pet_Power_Down_Executables.zip) for a zip file containing the files you need to run on Windows or Mac (sorry Linux!).  
+Click [here](/downloads/projects/Pet_Power_Down/Pet_Power_Down_Executables.zip) for a zip file containing the files you need to run on Windows or Mac (sorry Linux!).  
 
-Click [here]({{ site.url }}/downloads/projects/Pet_Power_Down/Pet_Power_Down_Manual.pdf) for the game's reference manual, written as part of a group assignment for the class.  
+Click [here](/downloads/projects/Pet_Power_Down/Pet_Power_Down_Manual.pdf) for the game's reference manual, written as part of a group assignment for the class.  
 
 Click [here](https://github.com/rjmarzec/Pet-Power-Down) for a GitHub repo containing all the project files. Note the low commit count due to being tossed onto the page after the project was completed since we used Google Drive for version control otherwise.  
 
