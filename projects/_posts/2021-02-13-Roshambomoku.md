@@ -24,11 +24,13 @@ So yeah, that's the idea for the game before I show you what it actually became.
 
 ### The game
 
-I'll cut to the chase here and leave a video of the gameplay here to make everything that follows clear. Here it is:  
-
-<video width="768" height="512">
-  <source src="/images/projects/Roshambomoku/gameplay.mp4/" type="video/mp4">
-</video>
+I'll cut to the chase here and leave a video of the gameplay here to make everything that follows clear. Here it is:
+<center> <iframe width="560"
+        height="315"
+        src="https://youtube.com/embed/1brraN6m7VA"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe></center>
 
 I'll say that it's a bit tough to keep track of what's going on without seeing where people choose to click, but hopefully that short video gets the idea across nicely. Again, the game has players going back and forth placing their randomly selected pieces to try to maximize the length of lines they make for points while minimizing the points their opponents can score. The twist is that you can also replace your opponent's piece with your own, so the game turns into a back and forth of figuring out what the next optimal move is. Maybe the strategy that goes into it all isn't so clear when I'm just playing against myself to record some gameplay, but it can end up being a lot of fun!  
 
@@ -70,7 +72,7 @@ First, we have the app's logo. This was the first piece of material I put togeth
 
 ![Roshambomoku's App Icon](/images/projects/Roshambomoku/app_icon.png)  
 
-Next, the app's feature graphic. In all honesty, I'm not sure where this one shows up. It might just be when you're looking up apps in a very specific context through the play store app, but again I'm not sure. That makes me sad since I think it turned out super cool, incorporating a bunch of different graphics while having a nice color scheme alongside it as well.
+Next, the app's feature graphic. In all honesty, I'm not sure where this one shows up. It might just be when you're looking up apps in a very specific context through the play store app, but again I'm not sure. That makes me sad since I think it turned out super cool, incorporating a bunch of different graphics while having a nice color scheme alongside it as well. At least I got to use it for the thumbnail of gameplay video above? That's gotta count for something.
 
 ![Roshambomoku's Feature Graphic](/images/projects/Roshambomoku/feature_graphic.png)
 
@@ -86,6 +88,8 @@ With all those assets done I got to throw together a very fun privacy policy of 
 ![Download Roshambomoku from the app store here.][https://play.google.com/store/apps/details?id=com.rjmarzec.roshambomoku]
 
 ![Check out the GitHub repository for the project here.][https://github.com/rjmarzec/roshambomoku]  
+
+![Check out the gameplay video again here.][https://www.youtube.com/watch?v=1brraN6m7VA&feature=youtu.be]
 
 And that was Roshambomoku, my first complete process of app development from start to finish. It was a lot of fun to grind out of the course of a few days, I got to mess around with a lot of interesting aesthetic choices and game design choices, stretch my coding muscle over a winter break, and now I'm a published developer even if that doesn't mean much. So, go feed my ego and give me an install and review if you will! :V
 

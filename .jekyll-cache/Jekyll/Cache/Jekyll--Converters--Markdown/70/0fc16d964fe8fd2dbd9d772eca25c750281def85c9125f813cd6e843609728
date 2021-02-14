@@ -1,4 +1,4 @@
-I"6N<p>Hi there! Today, we dive into my first run through making a proper mobile game by building out an answer to an interesting question: what do we get when we cross Rock-paper-scissors with Five-in-a-row? The very obvious answer is that we get Roshambomoku, the game I’ll be writing about here. If the idea at all seems interesting, come take a read and see how what I took from that original idea to build a full-on game.</p>
+I"hN<p>Hi there! Today, we dive into my first run through making a proper mobile game by building out an answer to an interesting question: what do we get when we cross Rock-paper-scissors with Five-in-a-row? The very obvious answer is that we get Roshambomoku, the game I’ll be writing about here. If the idea at all seems interesting, come take a read and see how what I took from that original idea to build a full-on game.</p>
 
 <h3 id="what-is-roshambomoku">What is Roshambomoku?</h3>
 
@@ -17,12 +17,7 @@
 <h3 id="the-game">The game</h3>
 
 <p>I’ll cut to the chase here and leave a video of the gameplay here to make everything that follows clear. Here it is:</p>
-
-<video>
-    <source src="/images/projects/Roshambomoku/video.mp4" type="video/mp4" />
-</video>
-
-<iframe width="480" height="360" src="https://youtu.be/1brraN6m7VA" frameborder="0"> </iframe>
+<center> <iframe width="560" height="315" src="https://youtube.com/embed/1brraN6m7VA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></center>
 
 <p>I’ll say that it’s a bit tough to keep track of what’s going on without seeing where people choose to click, but hopefully that short video gets the idea across nicely. Again, the game has players going back and forth placing their randomly selected pieces to try to maximize the length of lines they make for points while minimizing the points their opponents can score. The twist is that you can also replace your opponent’s piece with your own, so the game turns into a back and forth of figuring out what the next optimal move is. Maybe the strategy that goes into it all isn’t so clear when I’m just playing against myself to record some gameplay, but it can end up being a lot of fun!</p>
 
@@ -64,7 +59,7 @@
 
 <p><img src="/images/projects/Roshambomoku/app_icon.png" alt="Roshambomoku's App Icon" /></p>
 
-<p>Next, the app’s feature graphic. In all honesty, I’m not sure where this one shows up. It might just be when you’re looking up apps in a very specific context through the play store app, but again I’m not sure. That makes me sad since I think it turned out super cool, incorporating a bunch of different graphics while having a nice color scheme alongside it as well.</p>
+<p>Next, the app’s feature graphic. In all honesty, I’m not sure where this one shows up. It might just be when you’re looking up apps in a very specific context through the play store app, but again I’m not sure. That makes me sad since I think it turned out super cool, incorporating a bunch of different graphics while having a nice color scheme alongside it as well. At least I got to use it for the thumbnail of gameplay video above?</p>
 
 <p><img src="/images/projects/Roshambomoku/feature_graphic.png" alt="Roshambomoku's Feature Graphic" /></p>
 
