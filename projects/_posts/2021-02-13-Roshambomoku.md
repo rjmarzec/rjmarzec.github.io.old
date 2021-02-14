@@ -72,7 +72,7 @@ First, we have the app's logo. This was the first piece of material I put togeth
 
 ![Roshambomoku's App Icon](/images/projects/Roshambomoku/app_icon.png)  
 
-Next, the app's feature graphic. In all honesty, I'm not sure where this one shows up. It might just be when you're looking up apps in a very specific context through the play store app, but again I'm not sure. That makes me sad since I think it turned out super cool, incorporating a bunch of different graphics while having a nice color scheme alongside it as well. At least I got to use it for the thumbnail of gameplay video above? That's gotta count for something.
+Next, the app's feature graphic. In all honesty, I'm not sure where this one shows up. It might just be when you're looking up apps in a very specific context through the play store app, but again I'm not sure. That makes me sad since I think it turned out super cool, incorporating a bunch of different graphics while having a nice color scheme alongside it as well. At least I got to use it for the thumbnail of gameplay video above? That's got to count for something...
 
 ![Roshambomoku's Feature Graphic](/images/projects/Roshambomoku/feature_graphic.png)
 
