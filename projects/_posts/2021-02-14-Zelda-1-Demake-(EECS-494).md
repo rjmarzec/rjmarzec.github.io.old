@@ -2,11 +2,12 @@
 published: true
 layout: post
 comments: true
-title: Template Post
-permalink: /projects/[TITLE]
+title: Zelda 1 Demake (EECS 494)
+unity_dir: eecs_494_p1_zelda
+permalink: /projects/Zelda-1-Demake-(EECS-494)
 ---
 
-This is a template post. Use this as a starting point for other posts.
+Hi there! Today I'll be writing about the first of 3 project blog posts about my work in the University of Michigan's game development course, EECS 494.
 
 - Image Embed
     ![{{ALT TEXT}}](/assets/images/projects/{{REMAINING PATH}}){: width="250" }
