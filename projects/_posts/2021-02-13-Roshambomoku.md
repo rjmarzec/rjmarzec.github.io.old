@@ -70,16 +70,16 @@ Publishing the app was a big deal for me since it was the first tie I've ever pu
 
 First, we have the app's logo. This was the first piece of material I put together because it was before I started the process for publishing to the play store, and it's one I'm really happy with because of how "mobile-gamey" it turned out. It also shows a much more intense version of the game with a piece flying onto the board, which I think turned out really well.  
 
-![Roshambomoku's App Icon](/images/projects/Roshambomoku/app_icon.png)  
+![Roshambomoku's App Icon](/assets/images/projects/Roshambomoku/app_icon.png)  
 
 Next, the app's feature graphic. In all honesty, I'm not sure where this one shows up. It might just be when you're looking up apps in a very specific context through the play store app, but again I'm not sure. That makes me sad since I think it turned out super cool, incorporating a bunch of different graphics while having a nice color scheme alongside it as well. At least I got to use it for the thumbnail of gameplay video above? That's got to count for something...
 
-![Roshambomoku's Feature Graphic](/images/projects/Roshambomoku/feature_graphic.png)
+![Roshambomoku's Feature Graphic](/assets/images/projects/Roshambomoku/feature_graphic.png)
 
 Last off, the play store listing photos. They ask for screenshots when submitting, but like every other app on the store I went ahead and edited them a bunch with some very soft colors and instructions on how to play since I didn't know what else to put there. Again, I'm really happy with how all the soft colors came together on these to make something nice. Here's just 2 of the 8, so feel free to check the app store listing from there.
 
-![One of Roshambomoku's Play Store listing photos](/images/projects/Roshambomoku/store_photo_1.png)
-![Another one of Roshambomoku's Play Store listing photos](/images/projects/Roshambomoku/store_photo_2.png)
+![One of Roshambomoku's Play Store listing photos](/assets/images/projects/Roshambomoku/store_photo_1.png)
+![Another one of Roshambomoku's Play Store listing photos](/assets/images/projects/Roshambomoku/store_photo_2.png)
 
 With all those assets done I got to throw together a very fun privacy policy of "I don't take any of your personal data so my policy and ultimate privacy" which probably shouldn't fly? Either way, I think it's fine for now. That being said, the publishing process was otherwise super smooth, and all I needed to do was a wait a few days before my app was up and running on the store.
 

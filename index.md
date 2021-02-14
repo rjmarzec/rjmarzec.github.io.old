@@ -20,7 +20,7 @@ right person's website.
 
 And now, a fun picture of me with some wings and a smoothie:
 
-![Me!](images/misc/about_picture.jpg)
+![Me!](assets/images/misc/about_picture.jpg)
 
 ### Credits
 
