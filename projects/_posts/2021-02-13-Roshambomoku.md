@@ -85,13 +85,13 @@ With all those assets done I got to throw together a very fun privacy policy of 
 
 ### Links and closing thoughts
 
-![Download Roshambomoku from the app store here.][https://play.google.com/store/apps/details?id=com.rjmarzec.roshambomoku]
+[Download Roshambomoku from the app store here.](https://play.google.com/store/apps/details?id=com.rjmarzec.roshambomoku)
 
-![Check out the GitHub repository for the project here.][https://github.com/rjmarzec/roshambomoku]  
+[Check out the GitHub repository for the project here.](https://github.com/rjmarzec/roshambomoku)  
 
-![Check out the gameplay video again here.][https://www.youtube.com/watch?v=1brraN6m7VA&feature=youtu.be]
+[Check out the gameplay video again here.](https://www.youtube.com/watch?v=1brraN6m7VA&feature=youtu.be)
 
 And that was Roshambomoku, my first complete process of app development from start to finish. It was a lot of fun to grind out of the course of a few days, I got to mess around with a lot of interesting aesthetic choices and game design choices, stretch my coding muscle over a winter break, and now I'm a published developer even if that doesn't mean much. So, go feed my ego and give me an install and review if you will! :V
 
-Thanks as always for reading this far~
+Thanks as always for reading this far~  
 -Robert
