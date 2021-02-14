@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+comments: true
 title: Pet Power Down
 permalink: /projects/Pet_Power_Down/
 ---
