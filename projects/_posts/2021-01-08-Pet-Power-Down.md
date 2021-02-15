@@ -80,9 +80,9 @@ Sure, the game wasn't perfect, but putting something unique together with friend
 
 Naturally, I can't talk this long about a game I've made without having a download link for the game, alongside some other goodies.  
 
-Click [here](assets/downloads/projects/Pet_Power_Down/Pet_Power_Down_Executables.zip) for a zip file containing the files you need to run on Windows or Mac (sorry Linux!).  
+Click [here](/assets/downloads/projects/Pet_Power_Down/Pet_Power_Down_Executables.zip) for a zip file containing the files you need to run on Windows or Mac (sorry Linux!).  
 
-Click [here](assets/downloads/projects/Pet_Power_Down/Pet_Power_Down_Manual.pdf) for the game's reference manual, written as part of a group assignment for the class.  
+Click [here](/assets/downloads/projects/Pet_Power_Down/Pet_Power_Down_Manual.pdf) for the game's reference manual, written as part of a group assignment for the class.  
 
 Click [here](https://github.com/rjmarzec/Pet-Power-Down) for a GitHub repo containing all the project files. Note the low commit count due to being tossed onto the page after the project was completed since we used Google Drive for version control otherwise.  
 

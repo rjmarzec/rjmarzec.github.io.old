@@ -64,8 +64,9 @@ Although this is where I would normally link a GitHub repo or something, since t
 
 However, if the web build isn't enough for you, you can go ahead and download the game as an executable here:  
 
-![Download the Windows build here.](/assets/downloads/projects/EECS_494_Zelda_1_Demake/...)
-![Download the Mac Build here.](/assets/downloads/projects/EECS_494_Zelda_1_Demake/...)
+[Download the Windows build here][/assets/downloads/projects/EECS_494_Zelda_1_Demake/zelda_demake_zelda.zip].  
+
+[Download the Mac Build here][/assets/downloads/projects/EECS_494_Zelda_1_Demake/zelda_demake_mac.zip].  
 
 Thanks for reading, and I hope you had a fun time playing!
 -Robert

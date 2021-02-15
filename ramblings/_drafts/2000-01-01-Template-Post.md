@@ -16,7 +16,7 @@ This is a template post. Use this as a starting point for other posts.
     [{{LINK TEXT}}](https://WEBSITE.com/SOMETHING)
 
 - Download Link
-    [here](assets/downloads/{{REMAINING PATH}})
+    [here](/assets/downloads/{{REMAINING PATH}})
 
 - YouTube Embed
     <center> <iframe width="560"
