@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 comments: true
 title: Template Post
@@ -27,11 +27,12 @@ This is a template post. Use this as a starting point for other posts.
 
 - Unity WebGL Embed
     {{ADD THE TAG: "unity_dir: {{GAME FOLDER NAME}}"}}
+    {{ALSO, MODIFY "{{BUILD NAME}}" DOWN BELOW}}
 
     <script src="/assets/unity/{{page.unity_dir}}/TemplateData/UnityProgress.js"></script>  
     <script src="/assets/unity/{{page.unity_dir}}/Build/UnityLoader.js"></script>
     <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "/assets/unity/{{page.unity_dir}}/Build/builds.json",{onProgress: UnityProgress});  
+      var gameInstance = UnityLoader.instantiate("gameContainer", "/assets/unity/{{page.unity_dir}}/Build/{{BUILD NAME}}.json",{onProgress: UnityProgress});  
     </script>
     <div class="webgl-content">
       <div id="gameContainer" style="width: 960px; height: 600px"></div>
