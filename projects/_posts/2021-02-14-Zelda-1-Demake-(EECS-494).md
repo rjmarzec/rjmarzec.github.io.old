@@ -12,7 +12,7 @@ Hi there! Today I'll be writing the first of 3 project blog posts about my work 
 I'll just cut to the chase and leave the web build of the game below! Excuse the loud audio...  
 
 Instructions:  
-- Movement: Arrow Keys\  
+- Movement: Arrow Keys  
 - Sword attack: X  
 - Special Weapons: Z  
 - Rotate Special Weapon: Space  
