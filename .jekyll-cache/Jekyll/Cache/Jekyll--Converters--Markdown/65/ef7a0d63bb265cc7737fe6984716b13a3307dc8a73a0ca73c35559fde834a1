@@ -1,0 +1,18 @@
+I"f<p>Hi there! If you’re reading this, you’re here to playtest my game! Thanks for that. Below you will find download links for Windows and Mac builds, and if any issues pop up you have the web build below as well. I’m excited to see/hear what you have to think!</p>
+
+<p><a href="/assets/downloads/projects/EECS_494_The_Cardist_Prototype/rjmarzec_494_p2_gold_spike_windows.zip">Download the Windows build here</a>.</p>
+
+<p><a href="/assets/downloads/projects/EECS_494_The_Cardist_Prototype/rjmarzec_494_p2_gold_spike_mac.zip">Download the Mac Build here</a>.</p>
+
+<center><script src="/assets/unity/eecs_494_p2_the_cardist_prototype/TemplateData/UnityProgress.js"></script>  
+<script src="/assets/unity/eecs_494_p2_the_cardist_prototype/Build/UnityLoader.js"></script>
+<script>
+  var gameInstance = UnityLoader.instantiate("gameContainer", "/assets/unity/eecs_494_p2_the_cardist_prototype/Build/eecs_494_p2_the_cardist_prototype.json",{onProgress: UnityProgress});  
+</script>
+<div class="webgl-content">
+  <div id="gameContainer" style="width: 700px; height: 525px"></div>
+</div></center>
+
+<p>Have fun,<br />
+-Robert</p>
+:ET

@@ -20,7 +20,7 @@ Hi there! If you're reading this, you're here to playtest my game! Thanks for th
   var gameInstance = UnityLoader.instantiate("gameContainer", "/assets/unity/{{page.unity_dir}}/Build/{{page.unity_dir}}.json",{onProgress: UnityProgress});  
 </script>
 <div class="webgl-content">
-  <div id="gameContainer" style="width: 785px; height: 589px"></div>
+  <div id="gameContainer" style="width: 800px; height: 600px"></div>
 </div></center>  
 
 Have fun,  
