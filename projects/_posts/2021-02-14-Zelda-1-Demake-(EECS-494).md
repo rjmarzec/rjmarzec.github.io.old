@@ -7,7 +7,7 @@ unity_dir: eecs_494_p1_zelda
 permalink: /projects/Zelda-1-Demake-(EECS-494)
 ---
 
-Hi there! Today I'll be writing the first of 3 project blog posts about my work in the University of Michigan's Unity game development course, EECS 494! In this first project we were paired up to remake our choice of the first dungeon of the original The Legend of Zelda or some of the original Metroid. As per the title of this post, me and my partner went for remaking Zelda, so he's a bit about that process, including a version of the game you can play in the blogpost. Keep reading for more! *[LOUD AUDIO WARNING]*  
+Hi there! Welcome to blog post 1 of 3 about my work in the University of Michigan's game development course, EECS 494! In our first project we were paired up to remake our choice of the first dungeon of the original The Legend of Zelda or some of the original Metroid. As per the title of this post, me and my partner went for remaking Zelda, so he's a bit about that process, including a version of the game you can play in the blogpost. Keep reading for more! *[LOUD AUDIO WARNING]*  
 
 I'll just cut to the chase and leave the web build of the game below! Excuse the loud audio...  
 
