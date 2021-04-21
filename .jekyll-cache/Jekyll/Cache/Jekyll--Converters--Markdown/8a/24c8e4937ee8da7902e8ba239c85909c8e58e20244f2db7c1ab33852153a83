@@ -1,0 +1,20 @@
+I"�<p>Hi there! Welcome to blog 3 of 3 about my work in the University of Michigan’s game development course, EECS 494! If you’re seeing this, you’re here early! I’ve got the game for you to checkout here now, but come back later for a full write-up of the game</p>
+
+<p>If you’re just looking to play the game, look no further! Check it out using one of the download links below (recommended) or play in your browser. If you care more about how we got here, keep reading below.</p>
+
+<p><a href="https://toastylionstudios.itch.io/a-grimoires-tale">Check out the game here!</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=1fcMwpITjCY">Watch the game’s trailer here.</a></p>
+
+<center><script src="/assets/unity/A Grimoire's Tale - Web Build/TemplateData/UnityProgress.js"></script>  
+<script src="/assets/unity/A Grimoire's Tale - Web Build/Build/UnityLoader.js"></script>
+<script>
+  var gameInstance = UnityLoader.instantiate("gameContainer", "/assets/unity/A Grimoire's Tale - Web Build/Build/A Grimoire's Tale - Web Build.json",{onProgress: UnityProgress});  
+</script>
+<div class="webgl-content">
+  <div id="gameContainer" style="width: 960px; height: 540px"></div>
+</div></center>
+
+<p>See you soon,<br />
+-Robert</p>
+:ET
