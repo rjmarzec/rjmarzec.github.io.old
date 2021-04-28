@@ -1,0 +1,18 @@
+I"h<p>Hi there! Today we’ve got a nice post about a game from my first proper jam game, and first hackathon in what’s been a few years. If you’re seeing this, you’re here early! I would love to write more about what I contributed as part of the two man team that put this together, but for now enjoy the ocean-diving game itself. Check back later for a bit more info, but for now check out the pages linked below for our Ludum Dare submission page or the itch.io page with the game downloads available to give the game a try! Alternatively, give the game a try in the page just below, though for performance reasons I recommend a proper download for the game.</p>
+
+<p><a href="https://ldjam.com/events/ludum-dare/48/quiet-in-the-deep">Check out the Ludum Dare submission here!</a></p>
+
+<p><a href="https://rjmarzec.itch.io/quiet-in-the-deep">Download the game on itch.io!</a></p>
+
+<center><script src="/assets/unity/quiet_in_the_deep/TemplateData/UnityProgress.js"></script>  
+<script src="/assets/unity/quiet_in_the_deep/Build/UnityLoader.js"></script>
+<script>
+  var gameInstance = UnityLoader.instantiate("gameContainer", "/assets/unity/quiet_in_the_deep/Build/quiet_in_the_deep.json",{onProgress: UnityProgress});  
+</script>
+<div class="webgl-content">
+  <div id="gameContainer" style="width: 720px; height: 405px"></div>
+</div></center>
+
+<p>See you soon,<br />
+-Robert</p>
+:ET
